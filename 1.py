@@ -9,4 +9,6 @@ while n>0:
 if sum==copy_n:
     print("armstrong no")
 else:
-    print("not armstrong no.")
+    print("not armstrong no....")
+    print("not armstrong no....")
+    
